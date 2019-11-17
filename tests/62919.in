@@ -1,0 +1,4 @@
+Max fuel: 12500
+Variable range: 5
+x4 := x4 + 24
+EOF

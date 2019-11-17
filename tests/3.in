@@ -1,0 +1,4 @@
+Max fuel: 1000
+Variable range: 5
+x0 := x0 + 1
+EOF

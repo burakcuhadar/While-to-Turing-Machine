@@ -1,0 +1,8 @@
+Max fuel: 1500
+Variable range: 5
+IF x0 = 0 THEN
+  x1 := x1 + 1
+ELSE
+  x1 := x1 - 1
+END
+EOF

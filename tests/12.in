@@ -1,0 +1,11 @@
+Max fuel: 86500
+Variable range: 4
+WHILE x0 != 0 DO
+  x0 := x0 - 1;
+  x3 := x1 + 0;
+  WHILE x3 != 0 DO
+    x3 := x3 - 1;
+    x2 := x2 + 1
+  END
+END
+EOF
